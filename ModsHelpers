@@ -1,0 +1,252 @@
+Alright, hello everyone. Today, I've been working on compiling a list of mods that are useful in the creation of modpacks, such as recipe mods, food mods, world gen mods, and mob mods. I've divided the mods into various categories so that anyone can have an easier time viewing them. As well, feel free to take a look at Jadedcat's Foundation mods for even more mods available for use. There are several redundant mods in this list, but it's up to you which format you like the most, and which one to use. If there's anything you feel should be on this list, feel free to tell me.
+
+=========
+Lore Mods
+=========​
+
+Hardcore Questing Mode:
+This mod adds a questing book which can be used to create a variety of quests with various tasks and rewards. It adds a reputation system and reward bags that can be configured however you like. As well, it adds several blocks to the game that can be used to track quest progress with redstone, or gates that will only open when a quest is completed.
+
+Lore Expansion:
+This mod adds a lore book which can be filled with a variety of lore pages. Each page can be created in a custom JSON system in the mod's config folder. Pages can be read aloud by a narrator and even execute commands when found. These pages can be added to world generation with loot mods or given as rewards in other mods.
+
+Simple Achievements:
+A mod that allows one to add a checklist of achievements for the player to check off.
+
+Custom NPCs:
+This mod adds a set of tools for players to create custom NPCs that can roam about the world, give quests, talk/fight with the player, and even more. These NPCs can be given custom skins and have a variety of models and paths to choose from.
+
+Lost Books:
+This mod allows for the pack creator to create custom books that can be added to world generation via a simple properties file for each book.
+
+=====================
+World Generation Mods
+=====================​
+
+Lockdown:
+This is a fairly simple mod that allows for every world created to be a clone of a template world, allowing for an easier world-recreation than having to redownload the world every time.
+
+Perfect Spawn:
+A small mod that allows for the pack creator to set an exact spawn using coordinates and a dimension ID.
+
+Climate Control:
+An amazing mod that allows one to customize the default world generation, changing the frequency of islands, continents, oceans, lakes, biomes, and much more.
+
+ExtraBiomesXL:
+Although primarily a biome-adding mod, this mod also has config options to enable/disable biomes and villages in those biomes for EBXL and Vanilla biomes. This does not currently function in 1.7.10.
+
+DefaultWorldGenerator:
+This is a small mod that allows the pack creator to specify which type of world generation should be the default (with support for biome mods), such as Amplified, Biomes O' Plenty, or Superflat.
+
+Dimension Guard:
+A mod that prevents players from placing blocks in dimensions, which can be configured in the config file.
+
+Deadly World:
+A completely configurable mod that allows for the pack creator to add a variety of objects to underground world generation, such as Sand, Lava, Water, and Silverfish veins, boss mobs, spawners, TNT and potion traps, loot chests, and much more. It also allows for the pack creator to modify the spawn rate of Vanilla dungeons.
+
+Biome Tweaker:
+A really amazing mod that allows you to basically create your own biomes by allowing you to edit every property of existing ones.
+
+==============
+Structure Mods
+==============​
+
+Ruins:
+The most popular mod for creation of structures, this allows for the pack creator to create structures and add them to world generation, with almost anything they want inside.
+
+Recurrent Complex:
+A mod that allows for the generation of Custom Structures that supports biome-specific generation, underground and high-flying, custom monsters, and even custom loot tables.
+
+GenCreator:
+A simplified version of the Ruins mod, this adds the ability to create the structures via an in-game interface, and allows for detailed creation of mobs without use of spawners.
+
+WorldEdit:
+Allows the pack creator to easily create, save, and copy/paste structures with a wide variety of tools that I have no hope of covering in this small paragraph.
+
+=========
+Loot Mods
+=========​
+
+CustomChestLoot:
+A mod that allows for the pack creator to customize almost any chest added to world generation, such as the Starter Chest, dungeon chests, and much more.
+
+TooMuchLoot:
+When a world is created with this mod installed, it will scan the loot tables, and let you see and customize the loot that is generated for future worlds.
+
+LootMod:
+Although slightlyvery outdated, this mod allows for the pack creator to customize the properties of tools, giving them various effects.
+
+Loot++:
+A mod that allows for the pack creator to add or remove items from the loot tables of any type of chest, as well as several other neat features, such as creating their own records.
+
+==============
+Tweaking Mods
+==============​
+
+Minetweaker:
+Using a custom scripting language that is easy to learn, this mod allows for the pack creator to edit, add, and remove recipes, item names, and various other configurations for various mods.
+
+Modtweaker:
+An addon for Minetweaker, this mod allows for the player to customize recipes for even more mods, such as Blood Magic or Mariculture. Without this, Minetweaker can do half of the things it does in most packs.
+
+Progression:
+The be all, end all to tweaking and progression. Go check it out for yourself, and trust me - this is something you won't believe you ever could have done without.
+
+Minetweaker Recipemaker:
+A sweet mod that allows for the addition, removal, and editing of recipes via an in-game GUI.
+
+PhoenixConfig:
+A set of modular scripts for Minetweaker that can be added for almost any of your needs.
+
+FTB Universal Configs:
+A set of configs used in the pre-1.7 era that allow for easier transfer of worlds between packs with these configs.
+
+Jaded's Blood:
+Another mod that allows you to edit recipes, but this time in a simple JSON file. It allows for the customization of recipes from a wide variety of mods, such as Thermal Expansion or Blood Magic.
+
+ZZZZZ Custom Configs:
+Another mod that allows for recipe editing, but this time in XML format! It can edit recipes for even more mods, such as Pneumaticraft or Railcraft.
+
+Crafting Manager:
+With all the mods that allow for the addition and removal and editing of recipes, it can get to be a little much to keep track of them all. With Crafting Manager, you can enable and disable all recipes via the use of a nice GUI, while in-game!
+
+Iguana's Tweaks:
+A fully configurable mod that allows for the pack creators to customize various effects on the player, such as the weight of items, effects on the player under certain conditions, and much more that I don't think I'll be able to detail here.
+
+Modpack Tweaks:
+A generalized version of the TPPI Tweaks mod that allows for a whole bunch of tweaking, made for modpacks.
+
+=========
+Item Mods
+=========​
+
+Quadrum:
+A nice mod that allows for the pack creator to create blocks and items with various properties using a JSON system. It can do a wide variety of things, such as make superhard or soft blocks, or blocks that melt into various liquids. One can also specify custom textures for the blocks and items as well.
+
+Custom Items:
+A mod that allows one to add their own custom items, ranging from crops, tools, armour, blocks, world gen, liquids, and regular items.
+
+Custom Mealry:
+A small mod that allows for one to create their own food via a JSON file. One can specify the saturation of the food, effects, eat time, rarity, and quite a bit more.
+
+KawaiiCrops:
+An amazing mod that allows the pack creator to insert their own crops, plants, cakes, trees, foods, and recipes. There's a lot to eat here :D
+
+Custom Things:
+A mod that, once again, allows for the addition of items, tools, armour, and- records!
+
+KitchenCraft:
+A mod that allows for the addition of various crops and foods.
+
+RockDigger:
+A mod that allows for the pack creator to add in custom blocks that will be added to World Generation with custom textures, and can optionally be given slab and stair variants, using JSON.
+
+Tabula Rasa:
+A small mod that allows for the pack creator to add blocks and items via a config file, which can be given custom textures in a resource pack.
+
+JSONables:
+A mod that allows one to create their own custom Tinkers' tools, liquids, Super Massive Tech Stars, and Thaumcraft Aspects.
+
+============
+Ore Gen Mods
+============​
+
+CustomOreGen:
+A mod that allows for the pack creator to define how ore is generated, either per world or per pack, via a config file or an interface in the World Generation menu.
+
+OresPlus:
+This mod allows for the player to customize the ore generated in any dimension via a simple config file, allowing the player to add, remove, and retrogen ores. It also adds placeholder ores for various popular mods.
+
+CoFH Core:
+My ore tool of choice, this core mod by the CoFH Team allows for the pack creator to create veins of any block they want, basically wherever they want it. Some good tools to check out for this include the CoFH User's Manual or the website on the Team CoFH site.
+
+=========
+Mob Mods
+=========​
+
+Mob Spawn Controls 2:
+This mod allows for the Pack Creator to customize which mobs spawn in which biomes via the use of either a config-file or an in-game menu. There's support for mob-adding mods as well as biome-adding mods, allowing for complete control over what spawns where.
+
+Mob Properties:
+The ultimate property-editing tool, this mod allows one to customize mobs to a huge extent. It has support for mob-adding mods, and allows for one to customize drops, potion effects, name, armour, rarity, and much more via a JSON file system.
+
+=================
+Miscellaneous Mods
+=================​
+
+Accidentally Circumstantial Events:
+The quintessential tool for pack developers, this mod is by far one of the most brilliant things in Modded Minecraft since Minetweaker. I can't even describe the amount of things one can do with this mod, so you'll have to go check it out for yourself.
+
+Resource Loader:
+A mod that allows you to load custom textures for... just about anything without. Removes the need to have a texture pack or modify assets in order to change textures/
+
+TooMuchTime:
+A simple mod that allows one to customize the length of the day/night cycles.
+
+TooMuchRain:
+A small mod that allows the pack creator to customize the chance, length, and time in between rainstorms & thunderstorms
+
+Dimensional Inventories:
+A mod that allows you to specify if players should have different inventories in different dimensions.
+
+CreepersFire:
+A customizable mod that allows the pack creator to let mobs extending creepers explode when touching fire and the fuse time of creepers.
+
+Squake:
+A highly configurable mod that allows the pack creator to institute quake-style movement, or just portions, like bunny hopping or sharking.
+
+SquidUtils:
+SquidUtils provides the pack creator with many options to tweak the game, such as changing block and item properties, adding messages to crash reports, disabling individual mobs, and many other miscellaneous options.
+
+AsieTweaks:
+A mod that allows one to disable various vanilla things, such as dungeons, strongholds, experience, and more.
+
+Difficult Life:
+A difficulty bar, configurable max health and heart canisters, and more!
+
+LaunchGUI:
+A simple mod that allows pack creators to write messages to their players that will appear on the first launch of the pack.
+
+Sprinkles for Vanilla:
+Gives the option to enable and disable several things, such as Nether Portals, explosions (from each source individually), sleep, particles, and more.
+
+Custom Main Menu:
+An amazing mod that allows pack creators to create their own menus, with everything from customizable buttons and logos to panoramas and text.
+
+Custom Backgrounds:
+This is a sweet mod that allows for pack creators to replace the default dirt background with something of their own choice. Although currently only available for 1.8, the functions of this mod can also be found in Random Things for 1.7.
+
+===========
+Hunger Mods
+===========​
+
+Hunger Overhaul:
+A customizable mod that allows the pack creator to institute a variety of effects to hunger, such as an increased desaturation rate or the ability to regenerate health at various other levels of hunger.
+
+Spice of Life:
+A mod that not only adds a HUD to allow the player to see their current hunger and saturation level (and what will be added by food), but allows the pack creator to enable diminishing returns on various foods, making them less effective the more they are eaten.
+
+Hunger in Peace:
+A small mod that allows the pack creator to institute normal health/hunger loss and regeneration while on Peaceful mode.
+
+==========
+Status Mods
+==========​
+
+OpenEye:
+A mod that takes crash reports on a client and uploads them to a remote server. Not only does this help mod authors fix bugs, but it also helps pack creators as well, as one can add their own custom tags to the crashes.
+
+OPIS:
+A mod that allows players to discover what the greatest sources of lag are in a world, as well as coming packaged with Mapwriter when used client-side, for quick teleportation to points around the world.
+
+Loading Profiler:
+Allows one to see how long mods are taking during the loading phase.
+
+NBTedit:
+A small mod that allows for editing of Tile Entities. There are actually several variations available, so I won't include a link to any specific one.
+
+AromaBackup:
+A mod that routinely backs up worlds to a separate directory, helping to prevent world loss via corruption.
+
+YAMPST:
+Allows for the pack creator to track statistics for the pack, such as downloads and launches.
